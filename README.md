@@ -1,6 +1,14 @@
-# 💫 About Me:
-DevOps Engineer focused on building scalable, automated, and reliable systems on Linux.<br>Skilled in CI/CD, cloud infrastructure, containerization, and system optimization.<br>Passionate about reducing manual work through automation and improving deployment efficiency.<br>Always learning, always shipping.
+## 🚀 About Me
 
+Computer Science Engineering student with a strong focus on Software Engineering, DevOps, Cloud Infrastructure, and Cybersecurity.
+
+I build and automate reliable software systems using Linux, Git, CI/CD, containers, cloud platforms, and infrastructure-as-code.
+
+My interests span the complete software delivery lifecycle — from writing and testing code to deployment, automation, monitoring, and securing production environments.
+
+Currently strengthening my expertise through hands-on projects in cloud-native development, DevOps automation, system administration, and cybersecurity.
+
+*Core Focus:* Software Engineering • DevOps • Cloud • Linux • Cybersecurity
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pawan4327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pawanpandeyy99@gmail.com) 
